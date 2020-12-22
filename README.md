@@ -1,0 +1,2 @@
+# domainadmin
+domain manager
